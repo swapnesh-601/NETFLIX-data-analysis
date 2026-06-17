@@ -44,7 +44,7 @@ This project answers the following questions:
 NETFLIX-data-analysis/
 │
 ├── Netflix.ipynb          # Complete Data Analysis Notebook
-├── mymoviedb.csv          # Dataset
+├── Netflix_dataset.csv    # Dataset
 ├── Netflix_Project.pptx   # Project Presentation
 └── README.md              # Project Documentation
 ```
